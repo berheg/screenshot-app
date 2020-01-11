@@ -6,9 +6,14 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
+    "node-server-screenshot": "^0.2.3",
+    "puppeteer": "^2.0.0",
+    "puppeteer-browser": "^0.3.8",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0"
+    "react-scripts": "3.3.0",
+    "webshot": "^0.18.0",
+    "ws": "^7.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
